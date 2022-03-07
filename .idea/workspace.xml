@@ -35,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -81,12 +82,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="231" y="70" key="SettingsEditor" timestamp="1646669262120">
+    <state x="231" y="70" key="SettingsEditor" timestamp="1646670317177">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="231" y="70" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1646669262120" />
+    <state x="231" y="70" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1646670317177" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
